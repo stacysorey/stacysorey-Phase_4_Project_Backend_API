@@ -1,24 +1,13 @@
-# README
+# Cozy Journal
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+● User-focused web application that allows for a simple and intuitive journaling experience.
 
-Things you may want to cover:
+● Javascript front-end and Rails/Active Record back-end application.
 
-* Ruby version
 
-* System dependencies
+## Frontend
 
-* Configuration
+[Link to Frontend Github](https://github.com/stacysorey/Phase_4_Project_Frontend)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
